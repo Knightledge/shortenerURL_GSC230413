@@ -1,0 +1,23 @@
+bin/
+obj/
+*.user
+*.suo
+*.cache/
+*.db-shm
+*.db-wal
+.vs/
+# Rider/ReSharper
+.idea/
+*.DotSettings.user
+# Logs
+logs/
+*.log
+# Publish Output
+publish/
+# VS Code
+.vscode/
+# NuGet
+**/packages/
+# Static web assets cache
+**/obj/**/staticwebassets/
+# Generated
